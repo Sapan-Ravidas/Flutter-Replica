@@ -1,0 +1,3 @@
+https://flutter.dev/images/favicon.png
+https://fonts.googleapis.com/css?family=Google+Sans:400,500|Roboto:300,400,500|Roboto+Mono:400,700|Material+Icons
+https://flutter.dev/assets/main-5d31c54008859f17c4c18fbbef531e65ba2004ae86d42d69cbed884aa482a047.css
